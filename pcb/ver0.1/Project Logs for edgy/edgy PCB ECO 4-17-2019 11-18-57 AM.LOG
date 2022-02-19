@@ -1,0 +1,6 @@
+Change Component Comment : Designator=P6 Old Comment=SPI  New Comment=SPI
+Added Pin To Net: NetName=+3.3V Pin=C7-2
+Added Pin To Net: NetName=+3.3V Pin=L1-1
+Added Pin To Net: NetName=+3.3V Pin=P4-16
+Added Pin To Net: NetName=+3.3V Pin=R1-2
+Added Pin To Net: NetName=+3.3V Pin=U3-28

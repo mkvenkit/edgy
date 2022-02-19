@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=B1-Diff1_N New Net Name=B1-Diff2_N
+Change Net Name : Old Net Name=B1-Diff1_P New Net Name=B1-Diff2_P
+Change Net Name : Old Net Name=B1-Diff3_N New Net Name=B1-Diff1_N
+Added Differential Pair: Name=B1-Diff2

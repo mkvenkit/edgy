@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=B0-Diff5_P Pin=P3-2
+Removed Pin From Net: NetName=B0-Diff6_N Pin=P3-4
+Removed Pin From Net: NetName=B0-Diff6_P Pin=P3-6
+Removed Pin From Net: NetName=IOB_41A Pin=P3-8
+Removed Pin From Net: NetName=B2-Diff1_N Pin=P3-10
+Removed Pin From Net: NetName=B2-Diff1_P Pin=P3-12
+Removed Pin From Net: NetName=+1.2V Pin=P3-14
+Removed Pin From Net: NetName=B0-Diff5_N Pin=P3-17
+Removed Pin From Net: NetName=B1-Diff1_N Pin=P4-7
+Removed Pin From Net: NetName=B1-Diff1_N Pin=U3-60
+Removed Pin From Net: NetName=B1-Diff1_N Pin=U4-20
+Added Pin To Net: NetName=B0-Diff5_N Pin=P3-2
+Added Pin To Net: NetName=B0-Diff5_P Pin=P3-4
+Added Pin To Net: NetName=B0-Diff6_N Pin=P3-6
+Added Pin To Net: NetName=B0-Diff6_P Pin=P3-8
+Added Pin To Net: NetName=IOB_41A Pin=P3-10
+Added Pin To Net: NetName=B2-Diff1_N Pin=P3-12
+Added Pin To Net: NetName=B2-Diff1_P Pin=P3-14
+Added Pin To Net: NetName=+1.2V Pin=P3-17
+Added Pin To Net: NetName=B1-Diff1_P Pin=P4-7
+Added Pin To Net: NetName=B1-Diff1_P Pin=U3-60
+Added Pin To Net: NetName=B1-Diff1_P Pin=U4-20
+Added Net: Name=B1-Diff1_P

@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=ICS_MISO Pin=P5-4
+Removed Pin From Net: NetName=ICS_MISO Pin=R17-1
+Removed Pin From Net: NetName=ICS_MISO Pin=S1-1
+Removed Pin From Net: NetName=ICS_MISO Pin=U1-2
+Removed Pin From Net: NetName=ICS_MISO Pin=U3-46
+Removed Pin From Net: NetName=ICS_MISO Pin=U3-49
+Removed Pin From Net: NetName=ICS_MISO Pin=U4-8
+Removed Pin From Net: NetName=ICS_MISO Pin=U4-14
+Change Net Name : Old Net Name=ICS_MISO New Net Name=CDONE
+Added Pin To Net: NetName=CRESET_B Pin=R17-1
+Added Pin To Net: NetName=CRESET_B Pin=S1-1
+Added Pin To Net: NetName=CRESET_B Pin=U3-46
+Added Pin To Net: NetName=CRESET_B Pin=U4-8
+Added Net: Name=CRESET_B
+Added Pin To Net: NetName=ICS_MISO Pin=P5-4
+Added Pin To Net: NetName=ICS_MISO Pin=U1-2
+Added Pin To Net: NetName=ICS_MISO Pin=U3-49
+Added Pin To Net: NetName=ICS_MISO Pin=U4-14
+Added Net: Name=ICS_MISO

@@ -1,0 +1,13 @@
+Change Net Name : Old Net Name=IOB_2A New Net Name=B2-Diff3_N
+Change Net Name : Old Net Name=IOB_3B_G6 New Net Name=B2-Diff3_P
+Change Net Name : Old Net Name=IOB_4A New Net Name=B2-Diff2_N
+Change Net Name : Old Net Name=IOB_5B New Net Name=B2-Diff2_P
+Change Net Name : Old Net Name=IOB_8A New Net Name=B2-Diff1_N
+Change Net Name : Old Net Name=IOB_9B New Net Name=B2-Diff1_P
+Change Net Name : Old Net Name=IOB_22A New Net Name=B1-Diff1_N
+Change Net Name : Old Net Name=IOB_23B New Net Name=B1-Diff1_P
+Change Net Name : Old Net Name=IOB_24A New Net Name=B1-Diff2_N
+Added Differential Pair: Name=B1-Diff1
+Added Differential Pair: Name=B2-Diff1
+Added Differential Pair: Name=B2-Diff2
+Added Differential Pair: Name=B2-Diff3

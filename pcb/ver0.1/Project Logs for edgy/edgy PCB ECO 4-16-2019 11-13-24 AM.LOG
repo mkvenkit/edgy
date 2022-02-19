@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Diff_N Pin=U4-20
+Added Pin To Net: NetName=Diff_N Pin=P4-1
+Added Pin To Net: NetName=Diff_N Pin=U3-47
+Added Pin To Net: NetName=Diff_N Pin=U4-12
+Added Pin To Net: NetName=B1-Diff1_P Pin=U4-20
+Change Net Name : Old Net Name=Diff_N New Net Name=B1-Diff1_N

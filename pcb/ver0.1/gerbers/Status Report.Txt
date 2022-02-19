@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [edgy.PrjPCB]
+   Generated File[edgy-RoundHoles.TXT]
+   Generated File[edgy-SlotHoles.TXT]
+   Generated File[edgy.DRL]
+   Generated File[edgy.LDP]
+   Generated File[edgy.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 6:37:05 PM On 4/17/2019

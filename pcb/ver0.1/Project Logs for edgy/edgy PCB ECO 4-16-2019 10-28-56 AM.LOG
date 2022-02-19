@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=ICS_SS Pin=P5-1
+Removed Pin From Net: NetName=ICS_SCK Pin=P5-2
+Removed Pin From Net: NetName=ICS_MOSI Pin=P5-3
+Removed Pin From Net: NetName=ICS_MISO Pin=P5-4
+Removed Pin From Net: NetName=+3.3V Pin=P5-5
+Change Component Comment : Designator=P5 Old Comment=SPI Flash New Comment=SPI
+Added Pin To Net: NetName=ICS_MISO Pin=P5-1
+Added Pin To Net: NetName=+3.3V Pin=P5-2
+Added Pin To Net: NetName=ICS_SCK Pin=P5-3
+Added Pin To Net: NetName=ICS_MOSI Pin=P5-4
+Added Pin To Net: NetName=ICS_SS Pin=P5-5

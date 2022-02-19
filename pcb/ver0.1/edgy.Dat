@@ -1,0 +1,33 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~edgy.PrjPCB|ReportField=ProjectFullPath~D:\projects\edgy\pcb\ver0.1\edgy.PrjPCB|ReportField=Title~Bill of Materials For Project [edgy.PrjPCB] (No PCB Document Selected)|ReportField=ReportTime~5:01:35 PM|ReportField=ReportDate~4/12/2019|ReportField=ReportDateTime~4/12/2019 5:01:35 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~65|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~45dab1065ff7955f6729e0ab563705a6257202e6|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~4/12/2019|ReportField=CurrentTime~5:01:17 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\projects\edgy\pcb\ver0.1\Sheet1-edgy.SchDoc|ReportField=DocumentName~Sheet1-edgy.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~4/12/2019|ReportField=Organization~|ReportField=ProjectName~edgy.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~edgy.PrjPCB|ReportField=DataSourceFullPath~D:\projects\edgy\pcb\ver0.1\edgy.PrjPCB|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|0.1uF|Capacitor (Semiconductor SIM Model)|C1, C2, C11, C14, C17, C18, C20, C23|1608[0603]|Cap Semi|8
+2|1uF|Capacitor (Semiconductor SIM Model)|C3, C10, C13, C19, C22|1608[0603]|Cap Semi|5
+3|2.2uF|Capacitor (Semiconductor SIM Model)|C4, C25, C26|1608[0603]|Cap Semi|3
+4|12pF|Capacitor (Semiconductor SIM Model)|C5, C6|1608[0603]|Cap Semi|2
+5|10uF|Capacitor (Semiconductor SIM Model)|C7, C8, C9, C16|1608[0603]|Cap Semi|4
+6|10nF|Capacitor (Semiconductor SIM Model)|C12, C15, C21, C24|1608[0603]|Cap Semi|4
+7|Diode|Default Diode|D1|SMC|Diode|1
+8|LED1|Typical BLUE SiC LED|D2|1608[0603]|LED3|1
+9|LED2|Typical BLUE SiC LED|D3|1608[0603]|LED3|1
+10|LED3|Typical BLUE SiC LED|D4|1608[0603]|LED3|1
+11|LED4|Typical BLUE SiC LED|D5|1608[0603]|LED3|1
+12|Micro_USB|Micro USB 2.0|J1|Micro_USB|Micro_USB|1
+13|10uH|Inductor|L1|INDC1608L|Inductor|1
+14|Header 5X2|Header, 5-Pin, Dual row|P1|HDR2X5|Header 5X2|1
+15|SWD Header|Header, 4-Pin|P2|HDR1X4|Header 4|1
+16|GPIO|Header, 9-Pin, Dual row|P3, P4|HDR2X9|Header 9X2|2
+17|SPI Flash|Header, 6-Pin|P5|HDR1X6|Header 6|1
+18|0R|Resistor|R1, R2, R3, R4, R6, R7|J1-0603|Res3|6
+19|100|Resistor|R5|J1-0603|Res3|1
+20|10K|Resistor|R8, R9, R10, R11, R17|J1-0603|Res3|5
+21|1K|Resistor|R12, R13, R14|J1-0603|Res3|3
+22|27R|Resistor|R15, R16|J1-0603|Res3|2
+23|2K2|Resistor|R18|J1-0603|Res3|1
+24|SW-PB|Switch|S1|SPST-2|SW-PB|1
+25|W25Q_XX||U1|SOIC-8_3.9x4.9mm_pitch1.27mm|W25Q_XX|1
+26|MCP1702|3.3 V Low Quasient Current LDO|U2|SOT-23|MCP1702|1
+27|MODULE_MDBT50|MDBT50|U3|PCB_MDBT50_10.5X15.5|MODULE_MDBT50|1
+28|ICE40UP5K-SG48ITR50|iCE40 UltraPlusÂ™ 5280 LUTs 39 I/O 1.2 V Surface Mount FOPGA - QFN-48|U4|*QFN50P700X700X100-49N_ICE40UP5K-SG48ITR50(Primary)|ICE40UP5K-SG48ITR50|1
+29|MCP1812AT-012/OT||U5|SOT23-5BN|MCP1812AT-012/OT|1
+30|Jumper|Jumper Wire|W1|RAD-0.2|Jumper|1
+31|32.768kHz|Crystal Oscillator|Y1|32.768kHz_crystal|XTAL|1
+32|SIT1602AC-12-33E-12.000000E||Y2||SIT1602AC-12-33E-12.000000E|1
